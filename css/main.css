@@ -60,8 +60,8 @@ h2 {
     
 }
 
-.header__gallery, .header__history {
-    background: #00FF00;
+.header__gallery, .header__history, .header__school{
+    background: #E0FFFF;
     color: #010101;
     padding-top:18px;
     padding-bottom: 15px;
