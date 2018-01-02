@@ -45,6 +45,7 @@ h2 {
 
 .logo animated fadeInUp {
     background-position: right;
+    background-size: auto;
 }
 
 
