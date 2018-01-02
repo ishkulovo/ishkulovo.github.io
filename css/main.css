@@ -43,6 +43,10 @@ h2 {
     color: #fcdb00;
 }
 
+.logo animated fadeInUp {
+    background-position: right;
+}
+
 
 /* Первый экран */
 
