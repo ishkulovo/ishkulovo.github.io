@@ -51,11 +51,17 @@ h2 {
     background-size: auto;
 }
 
+.container side {
+background: #E0FFFF;
+    background-size: auto;
+    color: #010101;
+    padding-top:58px;
+    padding-bottom: 105px;
+}
 
 /* Первый экран */
 
 .header {
-    background: #E0FFFF;
     background-size: auto;
     color: #010101;
     padding-top:58px;
