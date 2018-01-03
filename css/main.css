@@ -3,7 +3,10 @@
 body {
     font-family: 'PT Sans', sans-serif;
 }
-
+.col-lg-3.weather, .weather , .col-lg-3 {
+    border-color: #cacd58;
+    border-style: double;
+}
 ul, li {
     display: block;
     padding: 0;
