@@ -64,7 +64,7 @@ h2 {
 .header {
     background: #E0FFFF;
     background-size: cover;
-    height: 100vh;
+    height: 100%;
     width: 100%;
    /* background-size: auto;
     color: #010101;
