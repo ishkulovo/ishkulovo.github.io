@@ -52,7 +52,7 @@ h2 {
 }
 
 .container.side {
-    background: white;
+    background: #FFE4B5;
     background-size: auto;
     color: #010101;
     padding-top:58px;
@@ -137,6 +137,7 @@ background: white;
 /* Второй экран */
 
 .feature {
+    background: #B0E0E6;
     margin-bottom: 65px;
    
 }
