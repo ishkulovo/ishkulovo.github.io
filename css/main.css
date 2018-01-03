@@ -51,7 +51,7 @@ h2 {
     background-size: auto;
 }
 
-.container side {
+.container.side {
 background: #E0FFFF;
     background-size: auto;
     color: #010101;
