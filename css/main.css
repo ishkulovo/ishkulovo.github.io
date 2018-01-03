@@ -3,7 +3,7 @@
 body {
     font-family: 'PT Sans', sans-serif;
 }
-.col-lg-3.weather, .weather , .col-lg-3 {
+ .weather {
     border-color: #cacd58;
     border-style: double;
 }
