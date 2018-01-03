@@ -198,8 +198,9 @@ background: white;
 
 .footer {
     background: #000;
-    height: auto;
-    padding:50px 0 94px;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
 }
 
 .credits {
