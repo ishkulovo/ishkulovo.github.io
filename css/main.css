@@ -75,9 +75,9 @@ h2 {
 
 .header__gallery, .header__history, .header__school{
     background: #E0FFFF;
-    color: #010101;
-    padding-top:18px;
-    padding-bottom: 15px;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
 }
 .menu {
     margin-top:8px;
@@ -141,7 +141,7 @@ background: white;
 
 .feature {
     background: #B0E0E6;
-    margin-bottom: 65px;
+    margin-bottom: 35px;
    
 }
 
