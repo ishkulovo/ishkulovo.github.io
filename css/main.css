@@ -63,10 +63,13 @@ h2 {
 
 .header {
     background: #E0FFFF;
-    background-size: auto;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+   /* background-size: auto;
     color: #010101;
     padding-top:20px;
-    padding-bottom: 105px;
+    padding-bottom: 105px;*/
     
 }
 
