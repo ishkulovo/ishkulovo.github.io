@@ -52,7 +52,7 @@ h2 {
 }
 
 .container.side {
-background: #E0FFFF;
+    background: white;
     background-size: auto;
     color: #010101;
     padding-top:58px;
@@ -62,6 +62,7 @@ background: #E0FFFF;
 /* Первый экран */
 
 .header {
+    background: #E0FFFF;
     background-size: auto;
     color: #010101;
     padding-top:58px;
