@@ -73,7 +73,7 @@ h2 {
     
 }
 
-.header__gallery, .header__history, .header__school{
+.header__gallery, .header__history, .header__school, .header__places{
     background: #E0FFFF;
     background-size: cover;
     height: 100%;
