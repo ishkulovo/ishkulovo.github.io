@@ -84,7 +84,8 @@ h2 {
 }
 
 .menu__item {
-    margin: 0 57px;
+    margin-left:-5px !important;
+    }
 }
 
 .menu__item a {
