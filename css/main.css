@@ -5,7 +5,9 @@ html {
     -webkit-font-smoothing: antialiased;
 }
 .jumbotron {
+    width: auto;
     height: auto;
+    min-height: 300px;
     background-color: white;
     background-image: url(../img/misharview.png);
     -moz-background-size: 100%; /* Firefox 3.6+ */
